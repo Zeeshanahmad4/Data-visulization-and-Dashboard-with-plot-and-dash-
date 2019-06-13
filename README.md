@@ -2,5 +2,5 @@ This is the outpot of all the files in the reposiotry.
 
 
 ### Scatter Plots.
-<img src="https://github.com/Zeeshanahmad4/Data-visulization-and-Dashboard-with-plot-and-dash-/blob/master/Resources/newplot.png" height="520" width="800">
+<img src="https://github.com/Zeeshanahmad4/Data-visulization-and-Dashboard-with-plot-and-dash-/blob/master/Resources/newplot.png" height="500" width="700">
 
