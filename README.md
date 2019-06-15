@@ -14,3 +14,8 @@ This is the outpot of all the files in the reposiotry.
 ### Bar chart.
 
 <img src="https://github.com/Zeeshanahmad4/Data-visulization-and-Dashboard-with-plot-and-dash-/blob/master/Resources/newplot2.png" height="480" width="750" unselectable="on">
+
+
+### Data table and Barchart.
+
+<img src="https://github.com/Zeeshanahmad4/Data-visulization-and-Dashboard-with-plot-and-dash-/blob/master/Resources/dahsbdjasbdhabsdh.png" height="480" width="750" unselectable="on">
